@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/Abhias2405/Nike_UI_Tailwind" target="_blank">
-      <img src="path_to_your_project_banner_image" alt="Project Banner">
+      <img src="./src/assets/images/banner.png" alt="Project Banner">
     </a>
   <br />
 
